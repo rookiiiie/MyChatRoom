@@ -1,0 +1,4 @@
+1.聊天室可以打开一个服务器server和多个client。服务器用于接收各个client的输入，并且向所有client输出同样的内容
+2.如果想在本地测试server和client,那么分别运行一个server.jar和多个client.jar，并且输入指定的ip和port；
+否则，我在自己的服务器上运行了server.jar,如果只想运行多个client.jar，那么当运行client.jar的时候，指定ip为 47.105.84.63 port为 8080 ，输入格式为:  47.105.84.63 8080
+3. jdk要求为12
