@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c83935f-8cf8-4997-95ff-56292ae13a4c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MyChatRoom" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hVGbhYSlnRRq2uxdTLFKaRR3LP" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last.edited.regexp" value="Sample Text" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Projectss\Projects\MyChatRoom\src\main\java" />
+      <recent name="E:\Projectss\Projects\MyChatRoom\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworkDay6.Client" />
+      <module name="MyChatRoom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworkDay6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="homeworkDay6.Server" />
+      <module name="MyChatRoom" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="homeworkDay6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c83935f-8cf8-4997-95ff-56292ae13a4c" name="Default Changelist" comment="" />
+      <created>1600088918732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600088918732</updated>
+      <workItem from="1600088921273" duration="344000" />
+      <workItem from="1600089280670" duration="1451000" />
+      <workItem from="1600090783860" duration="588000" />
+      <workItem from="1600091529431" duration="981000" />
+      <workItem from="1600092665767" duration="37000" />
+      <workItem from="1600136265832" duration="111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Notifications" timestamp="1600089205734">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1600089205734" />
+    <state x="361" y="70" key="#Project_Structure" timestamp="1600089746171">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1600089746171" />
+    <state x="223" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600089231042">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="66" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1600089231042" />
+    <state x="382" y="78" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1600089079571">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="382" y="78" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.824@0.0.1536.824" timestamp="1600089079571" />
+    <state x="362" y="2" key="CommitChangelistDialog2" timestamp="1600136495165">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="362" y="2" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1600136495165" />
+    <state x="549" y="152" key="FileChooserDialogImpl" timestamp="1600136414531">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="152" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1600136414531" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1600092607613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600092607613" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1600092607613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1600092607613" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1600092607613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1600092607613" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1600092607613">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1600092607613" />
+    <state x="200" y="0" key="SettingsEditor" timestamp="1600136381383">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="200" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1600136381383" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1600089475359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1600089475359" />
+    <state x="599" y="202" key="svn.repositoryBrowser" timestamp="1600136409363">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="599" y="202" key="svn.repositoryBrowser/0.0.1536.824@0.0.1536.824" timestamp="1600136409363" />
+  </component>
+</project>
